@@ -1,2 +1,1 @@
-# nasa
-NasaTest
+O projeto foi desenvolvido utilizando o SpringTollSuite4 (STS). Basta fazer o download do projeto no GitHub em formato .zip, descompactar numa máquina local e impotar no STS já instalado na máquina local. Então, ao abrir o STS, através do menu principal, execute na sequência: Menu Principal-> File->Import->Existing Maven Projects->Selecione a pasta do projeto descompactado baixado
